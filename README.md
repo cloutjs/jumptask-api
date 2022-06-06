@@ -2,7 +2,7 @@
 
 ## Endpoints
 
-| Use | Request Type | Endpoint | authentification needed? |
+| Use | Request Type | Endpoint | authentification? |
 | --- | ------ | ------- | ------------- |
 | Price | GET | https://api.jumptask.io/currency/ | 🟥 |
 | Gas Fees | GET | https://api.jumptask.io/payments/gas-estimate/ | 🟥 |

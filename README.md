@@ -2,7 +2,5 @@
 
 ## Endpoints
 
-Gas Fees
-* GET `https://api.jumptask.io/payments/gas-estimate/`
-Price
-* GET `https://api.jumptask.io/currency/`
+| URL | Status | History | Response Time | Uptime |
+| --- | ------ | ------- | ------------- | ------ |

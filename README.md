@@ -2,5 +2,5 @@
 
 ## Endpoints
 
-| URL | Status | History | Response Time | Uptime |
+| Use | Request Type | Endpoint | authentification needed? |
 | --- | ------ | ------- | ------------- | ------ |

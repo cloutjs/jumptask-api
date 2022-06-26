@@ -12,3 +12,6 @@
 | Offers | GET | https://api.jumptask.io/offerwall/offers | 🟩 |
 | Staking Infos | GET | https://api.jumptask.io/staking/campaigns | 🟩 |
 
+### Authentification
+![image](https://cdn.upload.systems/uploads/JArS5MEo.png)
+
